@@ -1,0 +1,3 @@
+#this is my very first python script
+
+print ("halo bos")
